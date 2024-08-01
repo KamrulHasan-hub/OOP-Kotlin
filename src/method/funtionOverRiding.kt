@@ -1,0 +1,4 @@
+package method
+
+class funtionOverRiding {
+}
